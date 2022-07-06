@@ -1,0 +1,8 @@
+node_modules
+*.log
+test/**/temp
+coverage/
+.coveralls.yml
+.DS_Store
+.idea/
+*.iml
